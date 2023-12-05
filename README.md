@@ -5,7 +5,7 @@
 <h4>게임</h4>
 <ul>
 	<li>
-		<a href="https://song-coding-school.github.io/01-Park-Jinoo/">박진우 '똥 피하기 게임' 바로가기</a>
+		<a href="https://song-coding-school.github.io/01-Park-Jinoo/">'똥 피하기 게임' 바로가기</a>
 	</li>
 </ul>
 
