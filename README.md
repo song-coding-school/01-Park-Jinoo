@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=1기%20박진우의%20스크래치%203.0%20게임&fontSize=45&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=스크래치%203.0%20게임%20만들기&fontSize=45&animation=fadeIn&fontAlignY=38)
 
 <a href="https://song-coding-school.github.io/01-Park-Jinoo/"><img src="https://github.com/song-coding-school/01-Park-Jinoo/blob/main/main.png?raw=true" width=800px /></a>
 
